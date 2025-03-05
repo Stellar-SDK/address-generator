@@ -1,5 +1,5 @@
 # Stellar Wallet Generator
-![Example of Stellar Wallet Generator](https://stellarfox.net/logo.542886ac.svg)
+[![Example of Stellar Wallet Generator](https://stellarfox.net/logo.542886ac.svg)](https://stellarfox.net/)
 
 ## Description
 
