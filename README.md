@@ -9,9 +9,9 @@ This project was developed to help users quickly generate Stellar wallets withou
 
 ## Key Features
 
-- **Generate public** and **private** keys.
+- **Generate private** keys.
 - Generate a **Stellar address** based on the public key.
-- Visualize wallet details (public key, private key, and address).
+- Visualize wallet details (private key, and address).
 - Easy to use: generate wallets directly in your browser.
 
 ## How to Use
@@ -40,14 +40,6 @@ Here’s an example of what the result might look like:
 - **JavaScript** — for key generation and user interaction.
 - **Stellar SDK** — for interacting with the Stellar network.
 
-## Installation and Running Locally
+## Get started now!
 
-To run the generator locally, download the repository and open the `index.html` file in your browser.
-
-```bash
-git clone https://github.com/Stellar-SDK/stellar-wallet-generator.git
-cd stellar-wallet-generator
-open index.html
-
-Get started now!  
-[**Try Stellar Wallet Generator (Paper Wallet)**](https://stellarfox.net)
+[**Stellar Wallet Generator**](https://stellarfox.net)
