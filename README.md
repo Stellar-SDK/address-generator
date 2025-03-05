@@ -48,3 +48,6 @@ To run the generator locally, download the repository and open the `index.html` 
 git clone https://github.com/Stellar-SDK/stellar-wallet-generator.git
 cd stellar-wallet-generator
 open index.html
+
+Get started now!  
+[**Try Stellar Wallet Generator (Paper Wallet)**](https://stellarfox.net)
